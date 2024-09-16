@@ -6,7 +6,7 @@ img.draggable = false;
 img.style.position = 'fixed';
 img.style.bottom = '0';
 img.style.right = '0';
-img.style.width = '200px';
+img.style.width = '300px';
 img.style.height = 'auto';
 document.body.appendChild(img);
 }
